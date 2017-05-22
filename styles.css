@@ -24,9 +24,13 @@ nav {
 
 .nav-link {
   padding: 25px;
-  color: #F0F0F0;
+  color: #848484;
   font-size: 20px;
   text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #FFFFFF;
 }
 
 .rt-header-content {
