@@ -166,6 +166,7 @@ h1 {
   background-color: #FFFFFF;
 }
 
+
 .hidden {
   display: hidden;
   background: none;
@@ -326,6 +327,9 @@ h3 {
   }
   .nav-icon {
     padding: 15px 0 15px 25px;
+  }
+  .hidden {
+    display: none;
   }
 }
 
